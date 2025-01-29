@@ -1,0 +1,76 @@
+2025/01/26 11:42:05 logger.go:37: [INFO] Kafka Writer initialized for topic: navi-dev-topic
+2025/01/26 11:42:45 logger.go:37: [INFO] Kafka Writer closed successfully
+2025/01/26 11:45:22 logger.go:37: [INFO] Kafka Writer initialized for topic: navi-dev-topic
+2025/01/26 11:46:22 logger.go:37: [INFO] Kafka Writer closed successfully
+2025/01/26 11:46:27 logger.go:37: [INFO] Connecting to Kafka brokers: [pkc-12576z.us-west2.gcp.confluent.cloud:9092], topic: navi-dev-topic
+2025/01/26 11:46:27 logger.go:37: [INFO] Kafka Writer initialized successfully
+2025/01/26 11:48:00 logger.go:37: [INFO] Kafka Writer closed successfully
+2025/01/26 13:02:47 producer.go:19: Initializing Kafka producer...
+2025/01/26 13:02:47 producer.go:41: Kafka producer created successfully.
+2025/01/26 13:02:47 producer.go:45: Using Kafka topic: navi-dev-topic
+2025/01/26 13:02:53 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:02:53 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:02:55 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:02:55 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:04:03 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:04:03 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:04:04 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:04:04 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:04:05 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:04:05 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:04:07 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:04:07 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:04:09 producer.go:58: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:04:09 producer.go:79: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:06:43 producer.go:88: Shutting down Kafka producer...
+2025/01/26 13:06:44 producer.go:95: Kafka producer closed gracefully.
+2025/01/26 13:07:56 producer.go:19: Initializing Kafka producer...
+2025/01/26 13:07:56 logger.go:37: [INFO] Connecting to Kafka Cluster with the following details:
+2025/01/26 13:07:56 logger.go:37: [INFO]   Bootstrap Servers: 
+2025/01/26 13:07:56 logger.go:37: [INFO]   SASL Username: S55GEJ2ZEI3UPWCR
+2025/01/26 13:07:56 logger.go:37: [INFO]   SASL Mechanism: PLAIN
+2025/01/26 13:07:56 logger.go:37: [INFO]   Security Protocol: SASL_SSL
+2025/01/26 13:07:56 logger.go:37: [INFO]   Consumer Group ID: navi-ears-cg
+2025/01/26 13:07:56 logger.go:37: [INFO]   Offset Reset: earliest
+2025/01/26 13:07:56 producer.go:49: Kafka producer created successfully.
+2025/01/26 13:07:56 producer.go:53: Using Kafka topic: navi-dev-topic
+2025/01/26 13:08:01 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:08:01 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:08:03 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:08:03 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:09:07 producer.go:96: Shutting down Kafka producer...
+2025/01/26 13:09:07 producer.go:103: Kafka producer closed gracefully.
+2025/01/26 13:09:19 producer.go:19: Initializing Kafka producer...
+2025/01/26 13:09:19 logger.go:37: [INFO] Connecting to Kafka Cluster with the following details:
+2025/01/26 13:09:19 logger.go:37: [INFO]   Bootstrap Servers: 
+2025/01/26 13:09:19 logger.go:37: [INFO]   SASL Username: S55GEJ2ZEI3UPWCR
+2025/01/26 13:09:19 logger.go:37: [INFO]   SASL Mechanism: PLAIN
+2025/01/26 13:09:19 logger.go:37: [INFO]   Security Protocol: SASL_SSL
+2025/01/26 13:09:19 logger.go:37: [INFO]   Consumer Group ID: navi-ears-cg
+2025/01/26 13:09:19 logger.go:37: [INFO]   Offset Reset: earliest
+2025/01/26 13:09:19 producer.go:49: Kafka producer created successfully.
+2025/01/26 13:09:19 producer.go:53: Using Kafka topic: navi-dev-topic
+2025/01/26 13:09:21 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:09:21 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:10:45 producer.go:96: Shutting down Kafka producer...
+2025/01/26 13:10:45 producer.go:103: Kafka producer closed gracefully.
+2025/01/26 13:10:50 producer.go:19: Initializing Kafka producer...
+2025/01/26 13:10:50 logger.go:37: [INFO] Connecting to Kafka Cluster with the following details:
+2025/01/26 13:10:50 logger.go:37: [INFO]   Bootstrap Servers: pkc-12576z.us-west2.gcp.confluent.cloud:9092
+2025/01/26 13:10:50 logger.go:37: [INFO]   SASL Username: S55GEJ2ZEI3UPWCR
+2025/01/26 13:10:50 logger.go:37: [INFO]   SASL Mechanism: PLAIN
+2025/01/26 13:10:50 logger.go:37: [INFO]   Security Protocol: SASL_SSL
+2025/01/26 13:10:50 logger.go:37: [INFO]   Consumer Group ID: navi-ears-cg
+2025/01/26 13:10:50 logger.go:37: [INFO]   Offset Reset: earliest
+2025/01/26 13:10:50 producer.go:49: Kafka producer created successfully.
+2025/01/26 13:10:50 producer.go:53: Using Kafka topic: navi-dev-topic
+2025/01/26 13:11:01 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:11:01 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:11:23 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:11:23 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:11:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:11:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:11:29 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/26 13:11:29 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/26 13:11:36 producer.go:96: Shutting down Kafka producer...
+2025/01/26 13:11:36 producer.go:103: Kafka producer closed gracefully.

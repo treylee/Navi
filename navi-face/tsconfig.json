@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    /* General Options */
+    "target": "ESNext",                               /* Use the latest ECMAScript version for emitted JavaScript. */
+    "module": "ESNext",                               /* Use ES module syntax for JavaScript. */
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],         /* Include libraries for DOM and modern ECMAScript features. */
+    "jsx": "react-jsx",                               /* Use the React JSX runtime. */
+    "moduleResolution": "node",                      /* Use Node.js module resolution. */
+    "esModuleInterop": true,                         /* Enable compatibility for CommonJS and ES modules. */
+    "allowSyntheticDefaultImports": true,            /* Allow default imports even if the module has no default export. */
+    "forceConsistentCasingInFileNames": true,        /* Enforce consistent casing in file names. */
+    "skipLibCheck": true,                            /* Skip type checking for declaration files. */
+    "strict": true,                                  /* Enable all strict type-checking options. */
+
+    /* Experimental and Emit Options */
+    "resolveJsonModule": true,                       /* Allow importing JSON files. */
+    "noEmit": true,                                  /* Disable emitting files during compilation. */
+
+    /* Path Options */
+    "baseUrl": ".",                                  /* Set the base directory for resolving paths. */
+    "paths": {                                      /* Define aliases for commonly used paths. */
+      "@components/*": ["src/components/*"],
+      "@utils/*": ["src/utils/*"],
+      "@assets/*": ["src/assets/*"]
+    }
+  },
+  "include": ["src"],                                /* Include all TypeScript and TSX files in the `src` folder. */
+  "exclude": ["node_modules"]                        /* Exclude the `node_modules` folder. */
+}
