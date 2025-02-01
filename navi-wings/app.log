@@ -584,3 +584,5 @@
 2025/01/31 20:55:57 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
 2025/01/31 20:55:57 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
 2025/01/31 20:55:57 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/02/01 11:36:48 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/02/01 11:36:48 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
