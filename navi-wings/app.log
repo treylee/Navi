@@ -74,3 +74,513 @@
 2025/01/26 13:11:29 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
 2025/01/26 13:11:36 producer.go:96: Shutting down Kafka producer...
 2025/01/26 13:11:36 producer.go:103: Kafka producer closed gracefully.
+2025/01/28 19:30:00 producer.go:19: Initializing Kafka producer...
+2025/01/28 19:30:00 logger.go:37: [INFO] Connecting to Kafka Cluster with the following details:
+2025/01/28 19:30:00 logger.go:37: [INFO]   Bootstrap Servers: pkc-12576z.us-west2.gcp.confluent.cloud:9092
+2025/01/28 19:30:00 logger.go:37: [INFO]   SASL Username: S55GEJ2ZEI3UPWCR
+2025/01/28 19:30:00 logger.go:37: [INFO]   SASL Mechanism: PLAIN
+2025/01/28 19:30:00 logger.go:37: [INFO]   Security Protocol: SASL_SSL
+2025/01/28 19:30:00 logger.go:37: [INFO]   Consumer Group ID: navi-ears-cg
+2025/01/28 19:30:00 logger.go:37: [INFO]   Offset Reset: earliest
+2025/01/28 19:30:00 producer.go:49: Kafka producer created successfully.
+2025/01/28 19:30:00 producer.go:53: Using Kafka topic: navi-dev-topic
+2025/01/28 19:30:08 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:30:08 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:38:23 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:38:23 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:39:43 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:39:43 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:45:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:45:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:46:00 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:46:00 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:47:19 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:47:19 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:47:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:47:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:47:54 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:47:54 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:47:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:47:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:48:04 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:48:04 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:48:11 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:48:11 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:49:00 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:49:00 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:49:05 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:49:05 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:52:31 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:52:31 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:52:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:52:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:53:13 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:53:13 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:53:39 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:53:39 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:53:43 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:53:43 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:53:45 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:53:45 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:53:47 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:53:47 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 19:54:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 19:54:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 20:00:33 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 20:00:33 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 20:00:36 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 20:00:36 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/28 20:00:39 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/28 20:00:39 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 10:21:30 producer.go:96: Shutting down Kafka producer...
+2025/01/31 10:21:30 producer.go:103: Kafka producer closed gracefully.
+2025/01/31 18:36:00 producer.go:19: Initializing Kafka producer...
+2025/01/31 18:36:00 logger.go:37: [INFO] Connecting to Kafka Cluster with the following details:
+2025/01/31 18:36:00 logger.go:37: [INFO]   Bootstrap Servers: pkc-12576z.us-west2.gcp.confluent.cloud:9092
+2025/01/31 18:36:00 logger.go:37: [INFO]   SASL Username: S55GEJ2ZEI3UPWCR
+2025/01/31 18:36:00 logger.go:37: [INFO]   SASL Mechanism: PLAIN
+2025/01/31 18:36:00 logger.go:37: [INFO]   Security Protocol: SASL_SSL
+2025/01/31 18:36:00 logger.go:37: [INFO]   Consumer Group ID: navi-ears-cg
+2025/01/31 18:36:00 logger.go:37: [INFO]   Offset Reset: earliest
+2025/01/31 18:36:00 producer.go:49: Kafka producer created successfully.
+2025/01/31 18:36:00 producer.go:53: Using Kafka topic: navi-dev-topic
+2025/01/31 18:36:47 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 18:36:47 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 18:56:12 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 18:56:12 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:03:11 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:03:11 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:03:18 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:03:18 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:11 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:11 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:17 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:17 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:19 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:19 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:21 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:21 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:27 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:27 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:34 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:34 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:04:46 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:04:46 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:06:00 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:06:00 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:06:03 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:06:03 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:06:23 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:06:23 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:08:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:08:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:08:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:08:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:11:35 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:11:35 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:13:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:13:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:14:50 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:14:50 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:14:57 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:14:57 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:15:10 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:15:10 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:16:35 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:16:35 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:18:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:18:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:19:17 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:19:17 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:20:04 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:20:04 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:20:33 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:20:33 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:20:42 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:20:42 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:21:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:21:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:22:04 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:22:04 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:23:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:23:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:24:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:24:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:24:38 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:24:38 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:24:39 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:24:39 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:25:15 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:25:15 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:25:24 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:25:24 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:25:32 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:25:32 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:25:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:25:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:28:50 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:28:50 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:28:58 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:28:58 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:31:15 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:31:15 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:32:10 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:32:10 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:32:16 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:32:16 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:32:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:32:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:34:10 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:34:10 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:36:13 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:36:13 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:37:44 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:37:44 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:43:20 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:43:20 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:43:27 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:43:27 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:48:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:48:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:49:11 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:49:11 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:53:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:53:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:00 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:00 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:03 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:03 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:29 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:29 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:30 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:30 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:31 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:31 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:32 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:32 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:33 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:33 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:35 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:35 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:36 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:36 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:36 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:36 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:37 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:37 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:54:58 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:54:58 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:58:31 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:58:31 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:58:36 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:58:36 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 19:58:41 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 19:58:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:34 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:34 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:36 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:36 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:41 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:44 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:44 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:48 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:48 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:53 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:53 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:02:58 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:02:58 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:20 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:20 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:24 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:24 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:25 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:25 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:39 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:39 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:08:41 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:08:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:10:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:10:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:11:17 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:11:17 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:01 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:01 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:06 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:06 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:30 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:30 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:44 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:44 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:48 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:48 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:52 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:52 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:54 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:54 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:12:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:12:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:01 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:01 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:07 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:07 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:09 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:09 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:42 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:42 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:44 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:44 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:46 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:46 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:13:49 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:13:49 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:14:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:14:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:14:43 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:14:43 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:14:46 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:14:46 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:15:10 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:15:10 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:15:11 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:15:11 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:15:12 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:15:12 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:15:13 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:15:13 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:15:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:15:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:15:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:15:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:16:00 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:16:00 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:16:04 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:16:04 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:16:09 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:16:09 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:16:12 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:16:12 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:16:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:16:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:22:12 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:22:12 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:22:15 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:22:15 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:22:22 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:22:22 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:22:26 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:22:26 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:24:43 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:24:43 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:36:53 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:36:53 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:38:18 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:38:18 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:38:21 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:38:21 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:38:22 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:38:22 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:38:23 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:38:23 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:39:54 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:39:54 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:39:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:39:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:39:58 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:39:58 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:39:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:39:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:40:06 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:40:06 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:41:21 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:41:21 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:41:23 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:41:23 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:41:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:41:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:42:31 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:42:31 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:20 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:20 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:27 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:27 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:30 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:30 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:32 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:32 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:34 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:34 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:35 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:35 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:35 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:35 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:41 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:45 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:45 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:45 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:45 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:46 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:46 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:52 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:52 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:58 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:58 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:43:59 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:43:59 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:00 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:00 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:12 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:12 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:13 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:13 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:14 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:14 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:15 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:15 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:44:17 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:44:17 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:47:32 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:47:32 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:50:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:50:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:51:06 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:51:06 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:51:11 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:51:11 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:51:17 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:51:17 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:51:58 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:51:58 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:03 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:03 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:03 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:03 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:04 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:04 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:06 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:06 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:06 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:06 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:07 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:07 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:09 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:09 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:12 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:12 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:13 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:13 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:15 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:15 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:23 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:23 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:33 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:33 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:52:44 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:52:44 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:54:41 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:54:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:30 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:30 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:36 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:36 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:37 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:37 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:38 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:38 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:38 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:38 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:39 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:39 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:39 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:39 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:40 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:40 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:41 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:41 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:42 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:42 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:43 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:43 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:44 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:44 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:45 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:45 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:46 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:46 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:48 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:48 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:48 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:48 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:49 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:49 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:50 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:50 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:51 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:51 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:52 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:52 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:52 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:52 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:53 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:53 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:54 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:54 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:54 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:54 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:54 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:54 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:55 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:56 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:57 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:57 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic
+2025/01/31 20:55:57 producer.go:66: Preparing to send message to Kafka topic: navi-dev-topic
+2025/01/31 20:55:57 producer.go:87: Message successfully sent to Kafka topic: navi-dev-topic

@@ -3,3 +3,18 @@ kafka:
   apiKey: "S55GEJ2ZEI3UPWCR"
   apiSecret: "6HMjpvY/o+i/+1s50polJAB2UDnksVj/Xk6gHlcl+C6iFYIV4HHq/PIQnmjME2I2"
   topic: "navi-dev-topic"
+
+cors:
+  allowedOrigins:
+    - "http://localhost:3000"      # Frontend in local development
+    - "https://my-frontend.com"    # Production frontend
+  allowedMethods:
+    - "GET"
+    - "POST"
+    - "OPTIONS"
+  allowedHeaders:
+    - "Origin"
+    - "Content-Type"
+    - "Authorization"
+  allowCredentials: true
+
